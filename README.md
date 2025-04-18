@@ -18,15 +18,6 @@ For detailed documentation and guides, please visit the [Home Page Wiki](https:/
 - [Installation Guide](https://github.com/OpenHMSHub/Documentation/wiki/Instalation-Guide)  
   Step-by-step instructions for setting up the RITI system in your environment.
   
-- [Linux Installation](https://github.com/OpenHMSHub/Documentation/wiki/Linux-Instalation)  
-  Instructions for setting up RITI on Linux systems.
-
-- [Mac OS Installation](https://github.com/OpenHMSHub/Documentation/wiki/Mac-OS-Instalation)  
-  Instructions for setting up RITI on macOS.
-
-- [Windows Installation](https://github.com/OpenHMSHub/Documentation/wiki/Window-Instalation)  
-  Instructions for setting up RITI on Windows.
-
 - [Entity Relationship Diagrams](https://github.com/OpenHMSHub/Documentation/wiki/Entity-Relationship-Diagrams)  
   Detailed entity-relationship diagrams for the RITI system.
 
