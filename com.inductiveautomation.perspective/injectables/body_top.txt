@@ -1,0 +1,6 @@
+<style>
+  .ia_tableComponent__selection {
+    pointer-events: none;
+    background-color: #f3faf840;
+  }
+</style>
